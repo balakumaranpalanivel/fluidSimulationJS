@@ -1,0 +1,2 @@
+Rendering on demand, damping and GUI
+https://threejs.org/manual/#en/rendering-on-demand
